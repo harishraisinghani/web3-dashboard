@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Web3-Components-Demo/static/css/main.073c9b0a.css",
-    "main.js": "/Web3-Components-Demo/static/js/main.155f2961.js",
-    "static/js/787.07850bf3.chunk.js": "/Web3-Components-Demo/static/js/787.07850bf3.chunk.js",
-    "index.html": "/Web3-Components-Demo/index.html",
-    "main.073c9b0a.css.map": "/Web3-Components-Demo/static/css/main.073c9b0a.css.map",
-    "main.155f2961.js.map": "/Web3-Components-Demo/static/js/main.155f2961.js.map",
-    "787.07850bf3.chunk.js.map": "/Web3-Components-Demo/static/js/787.07850bf3.chunk.js.map"
+    "main.css": "/web3-dashboard/static/css/main.073c9b0a.css",
+    "main.js": "/web3-dashboard/static/js/main.d47cc5f2.js",
+    "static/js/787.07850bf3.chunk.js": "/web3-dashboard/static/js/787.07850bf3.chunk.js",
+    "index.html": "/web3-dashboard/index.html",
+    "main.073c9b0a.css.map": "/web3-dashboard/static/css/main.073c9b0a.css.map",
+    "main.d47cc5f2.js.map": "/web3-dashboard/static/js/main.d47cc5f2.js.map",
+    "787.07850bf3.chunk.js.map": "/web3-dashboard/static/js/787.07850bf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.155f2961.js"
+    "static/js/main.d47cc5f2.js"
   ]
 }
